@@ -33,4 +33,4 @@ O sistema permite o cadastro de informações, salvando os dados em um arquivo `
 ## ✨ Autor
 
 Desirée Santos  
-[LinkedIn](https://www.linkedin.com/in/santosdesiree) | [GitHub](https://github.com/santosdesiree)
+[LinkedIn](www.linkedin.com/in/desirée-santos-5984b035b) | [GitHub](https://github.com/santosdesiree)
